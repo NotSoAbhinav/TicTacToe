@@ -1,6 +1,5 @@
-## Project Title
+<h1 align="center">TicTacToe</h1>
 
-TicTacToe 
 
 ## Overview
 
