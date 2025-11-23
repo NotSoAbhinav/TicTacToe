@@ -3,7 +3,7 @@
 
 ## Overview
 
-This is a simple console-based Tic Tac Toe game written in Python.Despite its simplicity, it includes a functional Minimax AI, making the computer extremely difficult to beat. The game is fully terminal-based and uses number inputs (1–9) to place moves.
+This is a simple console-based Tic Tac Toe game written in Python.Despite its simplicity, it includes a functional Minimax AI, making the computer extremely difficult to beat. The game is fully terminal-based and uses number inputs (1–9) to place moves. (Later Added GUI interface also with name main_gui.py for better User Experience.)
 
 ## Features
 
